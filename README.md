@@ -1,7 +1,7 @@
 # CpuRamMonitor
 Cpu and Ram usage monitor on an Arduino nano and a Waveshare 1.54" e-Paper display.
 
-![Result](Result_1200px.jpg)
+
 
 Created by Alejandro Alvarez (Nomte), based on a sample code of the GxEPD Library
 by Jean-Marc Zingg ( https://github.com/ZinggJM/GxEPD ). Also based on the code from
