@@ -11,5 +11,5 @@ Pinout from display: Busy=D7, Reset=D8, DC=D9, CS=D10, CLK=D13, DIN=D11, GND=GND
 
 IMPORTANT: Change the COM port in the Python code (default: COM5) in order to match your own COM port number.
 
-The screen make data numbers refresh every 2 seconds and a complete display refresh every 2 hours. That is healthy for the display.
+The device refresh the data numbers every 2 seconds without flashing, and a complete refresh every 2 hours. That is healthy for the display.
 
