@@ -7,7 +7,7 @@ Arduino Forums "Serial Input Basics" by Robin2 ( https://forum.arduino.cc/index.
 
 Pinout from display: Busy=D7, Reset=D8, DC=D9, CS=D10, CLK=D13, DIN=D11, GND=GND, VCC=3V3;
 
-IMPORTANT: CHANGE THE COM PORT IN THE PYTHON CODE (default: COM5) TO MATCH YOUR COM PORT NUMBER.
+IMPORTANT: Change the COM port in the Python code (default: COM5) in order to match your own COM port number.
 
-The screen make data refresh every 2 seconds and a complete display refresh every 2 hours. That is healthy for the display.
+The screen make data numbers refresh every 2 seconds and a complete display refresh every 2 hours. That is healthy for the display.
 
