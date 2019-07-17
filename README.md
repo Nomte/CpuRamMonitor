@@ -21,4 +21,4 @@ Waveshare E-Ink display: https://www.banggood.com/1_54-Inch-E-ink-Screen-Display
 
 Arduino nano compatible: https://es.banggood.com/ATmega328P-Nano-V3-Controller-Board-Compatible-Arduino-p-940937.html?rmmds=buy&cur_warehouse=CN
 
-The files to 3Dprint the parts are also available here (BOX.stl and FRONT.stl) and the file units are **centimeters**. The final dimensions are 6.8 x 4.3 x 3.1 CMs.
+The files to 3Dprint the parts are also available here (BOX.stl and FRONT.stl) and the file units are **centimeters**. The final dimensions are 6.8 x 4.3 x 3.1 CMs. Take a look at the "Assembly_001.jpg" image to see how to place the components.
